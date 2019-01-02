@@ -1,3 +1,3 @@
-# ML Algorithms Visualization
+# Data Visualisation
 
 Libraries used: Matplotlib, Seaborn.
